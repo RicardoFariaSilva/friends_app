@@ -1,6 +1,5 @@
 # FriendsApp
-
-**TODO: Add description**
+Basic Elixir project made in my learning process.
 
 ## Installation
 
